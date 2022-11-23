@@ -1,0 +1,13 @@
+.wrapper {
+  text-align: center;
+}
+
+.title {
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+
+.desc {
+  font-size: 1.5rem;
+  color: #6a7281;
+}
